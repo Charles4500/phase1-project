@@ -77,7 +77,7 @@ function renderCocktails(cocktails) {
   cardBody.append(title, description, button);
   cocktailList.appendChild(cardBody);
 
-
+    //Calling the function to display the data on the page
   cocktailContainer.appendChild(cocktailList);
 
 }
