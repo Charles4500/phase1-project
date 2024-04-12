@@ -42,7 +42,7 @@ function fetchCocktails(searchResult = '') {
     })   
     .catch((err) => console.log(err));
 }
-
+//Function to call the data from the API
 function renderCocktails(cocktails) {
   const cocktailContainer = document.querySelector('#cocktail');
   const cocktailList = document.createElement('div');
