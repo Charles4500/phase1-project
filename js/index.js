@@ -1,3 +1,4 @@
+//Fetching data that i will use to display on the page
 const baseUrl = 'http://localhost:3000/drinks';
 
 document.addEventListener('DOMContentLoaded', () => {
