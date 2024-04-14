@@ -1,0 +1,15 @@
+{
+  "name": "phase1-project",
+  "version": "1.0.0",
+  "description": "Phase1-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "phase1-project"
+  },
+  "author": "Charles4500",
+  "license": "MIT"
+}
