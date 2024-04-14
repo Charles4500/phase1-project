@@ -7,7 +7,7 @@
 
 
 ## Link to the project
-https://my-json-server.typicode.com/Charles4500/phase1-project/drinks
+https://charles4500.github.io/phase1-project/
 
 
 ## Description
