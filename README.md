@@ -26,11 +26,11 @@ Git clone https://github.com/Charles4500/phase1-project
 ```
 
 ## Technologies used
-HTML
-CSS
-BOOTSTRAP
-Javascript
-Github
+HTML\n
+CSS\n
+BOOTSTRAP\n
+Javascript\n
+Github\n
 
 ## Support and contact details
 github.com/Charles4500
