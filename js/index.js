@@ -1,5 +1,5 @@
 //Fetching data that i will use to display on the page
-const baseUrl = 'http://localhost:3000/drinks';
+const baseUrl = 'https://my-json-server.typicode.com/Charles4500/phase1-project/drinks';
 
 document.addEventListener('DOMContentLoaded', () => {
   fetchCocktails();
