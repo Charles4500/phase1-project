@@ -21,7 +21,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone Charles4500/phase1-project.git
+Git clone https://github.com/Charles4500/phase1-project
 
 ```
 
